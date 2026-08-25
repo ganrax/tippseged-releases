@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "Build 55",
-  "releaseNotes": "Automatikus build a GitHub Actions-bol. Build szam: 55 (Csatorna: main)",
+  "versionCode": 56,
+  "versionName": "Build 56",
+  "releaseNotes": "Automatikus build a GitHub Actions-bol. Build szam: 56 (Csatorna: main)",
   "apkUrl": "https://raw.githubusercontent.com/ganrax/tippseged-releases/main/latest.apk"
 }
